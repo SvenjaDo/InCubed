@@ -7,8 +7,8 @@ It contains two parts:
     c)  **03_Time_Series_Analysis** including extraction of construction values from the dataset and their visualization  
     d)  **04_Classification** including training a Random Forest model and predicting Land Cover Classification  
 
-  <img src="/viz/Classes.png" alt="Alt text" title="Visualization of training samples for Random Forest">
-  <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/ent001_81_01_NDVI.pdf" alt="Alt text" title="Visualization of Time Series Results">
+  <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/Training_samples.png" alt="Alt text" title="Visualization of training samples for Random Forest">
+  <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/Time_Series_results.png" alt="Alt text" title="Visualization of Time Series Results">
 
 
 
