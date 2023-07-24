@@ -7,13 +7,15 @@ It contains two parts:
     c)  **03_Time_Series_Analysis** including extraction of construction values from the dataset and their visualization  
     d)  **04_Classification** including training a Random Forest model and predicting Land Cover Classification  
 
- <img src="https://github.com/manidhill0n/InCubed/blob/main/Sentinel_2_ENT_NDVI.jpg" alt="Alt text" title="NDVI visulaization at different dates using Sentinel-2 (ENT)">
+  <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/Classes.pdf" alt="Alt text" title="Visualization of training samples for Random Forest">
+  <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/ent001_81_01_NDVI.pdf" alt="Alt text" title="Visualization of Time Series Results">
+
 
 
   3) Download and preprocess the Sentinel-2 dataset from Google Earth Engine (GEE) using Java script. The respective files are:  
     a) GEEcode_Sentinel-2.txt  
     b) Sample Maps for ENT (Sentinel_2_ENT_NDVI.jpg) and TER (Sentinel_2_TER_NDVI.jpg)  
     
-   <img src="https://github.com/manidhill0n/InCubed/blob/main/Sentinel_2_ENT_NDVI.jpg" alt="Alt text" title="NDVI visulaization at different dates using Sentinel-2 (ENT)">
-     <img src="https://github.com/manidhill0n/InCubed/blob/main/Sentinel_2_TER_NDVI.jpg" alt="Alt text" title="NDVI visulaization at different dates using Sentinel-2 (TER)">
+   <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/Sentinel_2_ENT_NDVI.jpg" alt="Alt text" title="NDVI visulaization at different dates using Sentinel-2 (ENT)">
+   <img src="https://github.com/SvenjaDo/InCubed/blob/main/viz/Sentinel_2_TER_NDVI.jpg" alt="Alt text" title="NDVI visulaization at different dates using Sentinel-2 (TER)">
     
